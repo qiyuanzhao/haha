@@ -13,7 +13,6 @@ public class GitTest {
         System.out.println("新添加的");
         System.out.println("i am lisi");
         System.out.println("i am master");
-        System.out.println("回滚");
     }
 
 
