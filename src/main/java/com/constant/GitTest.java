@@ -12,6 +12,7 @@ public class GitTest {
         System.out.println("这是新分支");
         System.out.println("新添加的");
         System.out.println("i am lisi");
+        System.out.println("i am master");
     }
 
 
