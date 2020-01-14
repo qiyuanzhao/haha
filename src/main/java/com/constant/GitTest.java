@@ -10,7 +10,7 @@ public class GitTest {
 
 
         System.out.println("这是新分支");
-
+        System.out.println("新添加的");
 
     }
 
